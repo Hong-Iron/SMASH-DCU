@@ -1,0 +1,34 @@
+{
+ "region": "경북 경산시 하양읍",
+ "nameEn": "Daegu Catholic University",
+ "added": "2026-10-24T16:30",
+ "rank": 38,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KIU",
+   "campus": "경일대학교",
+   "km": 0.8
+  },
+  {
+   "code": "DAEGU",
+   "campus": "대구대학교 경산캠퍼스",
+   "km": 3.9
+  },
+  {
+   "code": "DAEKYEUNG",
+   "campus": "대경대학교",
+   "km": 8.6
+  },
+  {
+   "code": "YU",
+   "campus": "영남대학교 경산캠퍼스",
+   "km": 10.2
+  },
+  {
+   "code": "DHU",
+   "campus": "대구한의대학교 삼성캠퍼스",
+   "km": 13.2
+  }
+ ]
+}
